@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: rgb(59, 61, 66);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#canvas {
+  background-color: white;
+  height: 75%;
+  width: 75%;
+  margin-top: 30px;
+  border: solid 3px #000;
+}
